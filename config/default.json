@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb://localhost:27017/devconnector",
+	"jwtSecret": "qr:U5qyy5CW[!!@Fw8."
+}
